@@ -53,7 +53,7 @@ Customer churn is one of the biggest challenges in the telecom industry. This pr
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/telco-churn-prediction-ml-dl.git
+git clone https://github.com/SamyarZamani/telco-churn-prediction-ml-dl.git
 cd telco-churn-prediction-ml-dl
 ```
 ### 2. Install dependencies
