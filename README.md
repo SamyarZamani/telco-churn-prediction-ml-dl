@@ -40,7 +40,7 @@ Customer churn is one of the biggest challenges in the telecom industry. This pr
 │   ├── mlp_training_curves.png                  # Chart 4: MLP training curves
 │   └── tenure_vs_churn.png                      # Chart 5: Tenure distribution by churn
 │
-├── 📁 models/                                   # Saved trained models
+├── 📁 model/                                   # Saved trained models
 │   ├── best_model_random_forest.pkl             # Best performing model (Random Forest)
 │   └── scaler.pkl                               # Fitted StandardScaler for inference
 │
